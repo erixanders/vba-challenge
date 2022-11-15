@@ -19,8 +19,13 @@ Using VBA to comb over data and print results based on year. Also using a refact
 
 ### Pros and Cons of refactoring Code
 +Makes code more versatile and flexible
+
 +Easier to troubleshoot
+
 +Helps make it faster
+
 +Easier to understand
+
 -Harder to setup
+
 -Can make code seem harder to do than it really is.
